@@ -71,6 +71,5 @@ tr,
 td {
   border: 1px solid #000;
   height: 50px;
-  
 }
 </style>

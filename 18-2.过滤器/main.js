@@ -20,7 +20,7 @@ Vue.filter('toLower',function (str) {
 })
 
 Vue.filter('formatTime',function (time) {
-  return dayjs(time).format('YYYY/MM/DD HH:mm:ss')
+  return dayjs(time).format('YYYY/MM/dd HH:mm:ss')
 })
 
 new Vue({
